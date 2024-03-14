@@ -1,0 +1,12 @@
+<svg width="96" height="96" viewBox="0 0 96 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M81 93H15C11.6865 93 9 90.3135 9 87V9C9 5.6865 11.6865 3 15 3H81C84.3135 3 87 5.6865 87 9V87C87 90.3135 84.3135 93 81 93Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M75 15H21V27H75V15Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M33 36H21V45H33V36Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M54 36H42V45H54V36Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M75 36H63V45H75V36Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M33 54H21V63H33V54Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M54 54H42V63H54V54Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M33 72H21V81H33V72Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M54 72H42V81H54V72Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="square"/>
+<path d="M75 54H63V81H75V54Z" stroke="black" stroke-width="4" stroke-miterlimit="10" stroke-linecap="square"/>
+</svg>
